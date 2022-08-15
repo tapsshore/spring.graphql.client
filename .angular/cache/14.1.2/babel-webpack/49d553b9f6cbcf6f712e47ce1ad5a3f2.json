@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"./batchLink.js\";","map":{"version":3,"sources":["C:/Users/Tapiwanashe Shoshore/Documents/Projects/spring.graphql/spring.graphql.client/node_modules/@apollo/client/link/batch/index.js"],"names":[],"mappings":"AAAA,cAAc,gBAAd","sourcesContent":["export * from \"./batchLink.js\";\n"]},"metadata":{},"sourceType":"module"}
